@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borhan</h1>
-<h3 align="center">Problem Solving . Front-End Developer</h3>
+<h3 align="center">Problem Solving . Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhann008&label=Profile%20views&color=0e75b6&style=flat" alt="borhann008" /> </p>
 
