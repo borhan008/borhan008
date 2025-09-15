@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borhan</h1>
 <h3 align="center">Problem Solver . Web Developer</h3>
 
-<strong>If you are visiting from this account – https://www.linkedin.com/in/mohammadborhanuddin – please be aware that it has been hacked. Be cautious if anything unusual happens.</strong>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhann008&label=Profile%20views&color=0e75b6&style=flat" alt="borhann008" /> </p>
 
