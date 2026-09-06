@@ -2,7 +2,6 @@
 <h3 align="center">Problem Solver . Web Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borhann008&label=Profile%20views&color=0e75b6&style=flat" alt="borhann008" /> </p>
 
 <h3 align="left">Find me:</h3>
 <p align="left">
@@ -16,4 +15,7 @@
 [![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=borhan008)](https://github.com/borhan008/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borhan008&&langs_count=1000&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borhann008&label=Profile%20views&color=0e75b6&style=flat" alt="borhann008" /> </p>
+
 
