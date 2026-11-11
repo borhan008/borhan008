@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Borhan</h1>
-<h3 align="center">Problem Solver . Web Developer</h3>
+<h3 align="center">Full-Stack Developer · Competitive Programmer</h3>
 
-
-
-<h3 align="left">Find me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/borhan008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="borhan008" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/borhan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="borhan008" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://brhn.vercel.app/"><img src="https://img.shields.io/badge/Website-brhn.vercel.app-111?style=flat" alt="Website" /></a>
+  <a href="https://linkedin.com/in/brhnuddin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.codechef.com/users/borhan008"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/borhan08"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/borhan008/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm a Computer Science graduate from Noakhali Science and Technology University. I build full-stack web apps with React, Next.js, Node.js and TypeScript, and I'm growing into applied AI engineering.
 
-[![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=borhan008)](https://github.com/borhan008/github-readme-stats)
+- 🧩 **960+ problems solved** across 7 judges 
+- 📫 **Reach me:** brhn.contact@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borhan008&&langs_count=1000&layout=compact)
+### 🛠 Languages and Tools
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borhann008&label=Profile%20views&color=0e75b6&style=flat" alt="borhann008" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,php,react,nextjs,tailwind,nodejs,express,mysql,mongodb,prisma,firebase,docker,git&perline=9" alt="TypeScript, JavaScript, C++, Python, PHP, React, Next.js, Tailwind CSS, Node.js, Express, Laravel, MySQL, MongoDB, Prisma, Firebase, PyTorch, Docker, Git" />
+</p>
 
+### 🚀 Featured Projects
 
+| Project | What it is | Links |
+| --- | --- | --- |
+| **ObhijogNama** | AI-powered complaint portal, selected by NSTU for university-wide use | [Live](https://deployment-nstu-obhijog-toeh.vercel.app/) · [Code](https://github.com/borhan008/deployment-nstu-obhijog) · [Video](https://youtu.be/lzLTIUjg1HQ) |
+| **NSTU Cover Page Generator** | Offline-ready PWA used by 7,000+ students every month | [Live](https://nstucoverpage.netlify.app/) · [Code](https://github.com/borhan008/nstu-coverpage-generator) · [Video](https://youtu.be/qhnH6sg8KbY) |
+| **ShopVerse** | E-commerce app with Stripe Checkout and IPFS media | [Code](https://github.com/borhan008/ShopVerse) · [Video](https://youtu.be/TnNAn4sXOuk) |
+| **PetSoft** | Pet daycare SaaS with subscriptions and Auth.js | [Live](https://pet-soft-weld.vercel.app/) · [Code](https://github.com/borhan008/PetSoft) · [Video](https://youtu.be/ugzWuQFa0Bo) |
+| **Advanced Task Manager** | Two-factor auth and two-way Google Calendar sync | [Live](https://todo-task-7i4d.vercel.app/) · [Code](https://github.com/borhan008/todo_task) |
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=borhan008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
