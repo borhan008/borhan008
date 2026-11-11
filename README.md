@@ -30,4 +30,8 @@ I'm a Computer Science graduate from Noakhali Science and Technology University.
 | **PetSoft** | Pet daycare SaaS with subscriptions and Auth.js | [Live](https://pet-soft-weld.vercel.app/) · [Code](https://github.com/borhan008/PetSoft) · [Video](https://youtu.be/ugzWuQFa0Bo) |
 | **Advanced Task Manager** | Two-factor auth and two-way Google Calendar sync | [Live](https://todo-task-7i4d.vercel.app/) · [Code](https://github.com/borhan008/todo_task) |
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=borhan008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+[![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=borhan008)](https://github.com/borhan008/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borhan008&&langs_count=1000&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borhann008&label=Profile%20views&color=0e75b6&style=flat" alt="borhann008" /> </p>
