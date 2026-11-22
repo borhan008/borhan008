@@ -11,7 +11,7 @@
 
 I'm a Computer Science graduate from Noakhali Science and Technology University. I build full-stack web apps with React, Next.js, Node.js and TypeScript, and I'm growing into applied AI engineering.
 
-- 🧩 **960+ problems solved** across 7 judges 
+- 🧩 **1000+ problems solved** across 7 judges 
 - 📫 **Reach me:** brhn.contact@gmail.com
 
 ### 🛠 Languages and Tools
